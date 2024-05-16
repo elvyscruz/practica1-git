@@ -1,0 +1,14 @@
+
+que es git ? -> Es un sistema de control de versiones distribuido
+
+Git es como una linea de tiempo, en el cual podemos tomar una instantanea
+de los archivos
+
+Repositorio -> Es un directorio de archivo que se inicialido con git
+Ramas: -> se refiere una o mas lineas de git
+
+->main--commit--commit--commit--commit--commit \ fusionar (merge)
+->dev--commit--commit--commit--commit--comit     /
+                   <----se puede colver a un commit y ver el estado 
+
+
